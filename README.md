@@ -5,5 +5,5 @@ color:blue;
 }
 </style>
 <h class = "blue-text">Pages</h>
-<p>test<p/>
+<p>test</p>
 
