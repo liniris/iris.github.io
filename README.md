@@ -1,5 +1,4 @@
 # iris.github.io
-<!DOCTYPE html>
 <html>
 <head>
 	<title></title>
@@ -74,5 +73,5 @@
 </body>
 </html>
 
-<p>test</p>
+
 
