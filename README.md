@@ -5,7 +5,16 @@ color:blue;
 }
 </style>
 <h class = "blue-text">Pages</h>
-<img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. ">
+<img src="https://pbs.twimg.com/media/C7wvAHRVUAA0uGH.jpg" >
+<p>興趣<p>
+<ul>
+  <li>排球</li>
+  <img src="https://pbs.twimg.com/media/C7wvNskVUAAF3Z0.jpg">
+  <img src="https://pbs.twimg.com/media/C7wvYsaVMAAZ3Cr.jpg">
+  <li>laser pointers</li>
+  <li>lasagna</li>
+</ul>
+
 
 <p>test</p>
 
