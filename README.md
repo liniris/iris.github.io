@@ -60,15 +60,15 @@
 	</div>
 	<div>
 	<b><p>興趣</p></b>
-		<div><p>1.打球</p></div>
+		<div><p>·打球</p></div>
 		<div>
 		<img class="small rad" src="https://pbs.twimg.com/media/C7wvNskVUAAF3Z0.jpg" >
 		</div>
 		<div>
 		<img src="https://pbs.twimg.com/media/C7wvYsaVMAAZ3Cr.jpg" class="rad" style="width: 15%">
 		</div>
-		<p>2.彈琴</p>
- 		<p>3.看電視</p>
+		<p>·彈琴</p>
+ 		<p>·看電視</p>
  		</div>
 </body>
 </html>
