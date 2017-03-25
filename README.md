@@ -68,6 +68,7 @@
 		<img src="https://pbs.twimg.com/media/C7wvYsaVMAAZ3Cr.jpg" class="rad" style="width: 15%">
 		</div>
 		<p>· 彈琴</p>
+		<img src ="https://pbs.twimg.com/media/C7xW28dVAAERQAg.jpg" class ="small">
  		<p>· 看電視</p>
  		</div>
 </body>
