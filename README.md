@@ -82,7 +82,7 @@ $(document).ready(function(){
 		</div>
  		<p>看電視</p>
  		</div>
- 		<div class="center">
+ 		<div>
  		<table border="1" class="center">
   <tr>
     <th>Country</th>
