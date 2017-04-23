@@ -42,7 +42,7 @@ iris.github.io
 			margin-left: 25%;
 		}
 		.center{
-			margin:0px auto;
+			margin:10px auto;
 		}
 	</style>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
@@ -83,7 +83,7 @@ $(document).ready(function(){
  		<p>看電視</p>
  		</div>
  		<div>
- 		<table border="1" class="1">
+ 		<table border="1" class="center">
   <tr>
     <th>Country</th>
     <th>Title</th>
